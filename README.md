@@ -35,7 +35,7 @@ Responsive Design
 
 📂 Project Structure
 Myntra-Clone/
-│
+
 ├── index.html
 ├── style.css
 ├── script.js
