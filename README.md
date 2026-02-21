@@ -37,9 +37,13 @@ Responsive Design
 Myntra-Clone/
 
 ├── index.html
+
 ├── style.css
+
 ├── script.js
+
 ├── images/
+
 └── README.md
 📷 Screenshots
 
